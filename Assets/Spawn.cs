@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Spawn : MonoBehaviour {
-    public int Bpm;
+    public float Bpm;
     float SpawnTime;
     GameObject Nota;
 	// Use this for initialization
